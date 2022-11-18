@@ -10,6 +10,7 @@ on:
       - 1.*
       - develop
       - main
+      - qa-released
   
 jobs:
   call-workflow-codeql-analysis:
